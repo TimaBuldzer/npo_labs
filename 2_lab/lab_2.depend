@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1632979560 source:c:\users\tim\desktop\univer\3 course\npo\labs\lab_2\main.c
+	<stdio.h>
+	<math.h>
+
+1633511651 source:c:\users\tim\desktop\univer\3 course\npo\labs\2_lab\main.c
+	<stdio.h>
+	<math.h>
+	<Windows.h>
+
